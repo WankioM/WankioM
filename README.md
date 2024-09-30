@@ -17,8 +17,8 @@ Diving into The Graph for efficient data querying in my projects
 Building on Flutter
 
 ### 🌱 I’m currently learning ...
-Flutter
-Base Base Base
+- Flutter
+- Base Base Base
 
 ### 👯 I’m looking to collaborate on ...
 Anything DAPP
