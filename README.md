@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**WankioM/WankioM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech generalist diving into the world of Blockchain! 🚀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Love:
+- Python 🐍
+- Solidity 🔗
+- React ⚛️
+- Next.js 📦
+- ThreeJS 🌐
+
+### 🔭 I’m currently working on ...
+
+Exploring Cairo 🏛️ and Ethereum to leverage StarkNet’s Layer 2 scaling solutions
+Diving into The Graph for efficient data querying in my projects
+Building on Flutter
+
+### 🌱 I’m currently learning ...
+Flutter
+Base Base Base
+
+### 👯 I’m looking to collaborate on ...
+Anything DAPP
+
+
+### ⚡ Fun fact: ...
+--> My favorite coding language is whichever one doesn’t require me to debug at 3 AM! 🌙💻
