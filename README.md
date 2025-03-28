@@ -27,5 +27,7 @@ Anything DAPP
 ### ⚡ Fun fact: ...
 --> My favorite coding language is whichever one doesn’t require me to debug at 3 AM! 🌙💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WankioM&langs_count=10&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WankioM&langs_count=11&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njeriwangumo&langs_count=10&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
