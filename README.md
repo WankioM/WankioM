@@ -6,7 +6,7 @@ I'm a tech generalist diving into the world of Blockchain! 🚀
 ## Technologies I Love:
 - React ⚛️
 - Solidity 🔗
-- Rust
+- Rust 🦀
 - ThreeJS 🌐
 
 ### Currently Shipping
