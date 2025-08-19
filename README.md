@@ -4,28 +4,24 @@ I'm a tech generalist diving into the world of Blockchain! 🚀
 
 
 ## Technologies I Love:
-- Python 🐍
-- Solidity 🔗
 - React ⚛️
-- Next.js 📦
+- Solidity 🔗
+- Rust
 - ThreeJS 🌐
 
-### 🔭 I’m currently working on ...
+### Currently Shipping
+🏗️ Cross-border payments 
+🔗 Supply chain automation 
+🌍 Decentralized real estate
 
-Exploring Cairo 🏛️ and Ethereum to leverage StarkNet’s Layer 2 scaling solutions
-Diving into The Graph for efficient data querying in my projects
-Building on Flutter
-
-### 🌱 I’m currently learning ...
-- Flutter
-- Base Base Base
-
-### 👯 I’m looking to collaborate on ...
-Anything DAPP
+###  Diving Into
+- The depths of account abstraction and smart contract modularity
+- What makes payment systems work (and fail) across Africa
+- On-chain DeFi mechanics and testing patterns that actually catch bugs
 
 
-### ⚡ Fun fact: ...
---> My favorite coding language is whichever one doesn’t require me to debug at 3 AM! 🌙💻
+## What's keeping  Me Busy
+Payment rails, enterprise logistics systems, and decentralized platforms. Currently obsessed with making Web3 payments work for people who've never heard of MetaMask.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WankioM&langs_count=11&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
